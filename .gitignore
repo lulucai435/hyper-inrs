@@ -1,0 +1,40 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Local settings and credentials
+.env
+.env.*
+.idea/
+.vscode/
+
+# OS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Data, checkpoints, and experiment output
+data/
+datasets/
+checkpoints/
+outputs/
+logs/
+lightning_logs/
+wandb/
+*.ckpt
+*.pt
+*.pth
+*.npz
+*.npy
+*.h5
+*.hdf5
+*.zip
+*.tar
+*.tar.gz
