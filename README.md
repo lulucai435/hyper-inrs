@@ -11,15 +11,10 @@ This is an initial partial code release containing reusable hypernetwork compone
 ## TODO
 
 - [x] Release core attention, weight tokenization, and optimization-oriented hypernetwork components.
-- [x] Add a minimal runnable example and component tests.
-- [x] Add the paper link and citation.
 - [ ] Release the complete `Hypernet` controller and target INR implementations.
 - [ ] Add data preparation instructions and configurations for CelebA-HQ, ERA5, ShapeNet, ImageNet, and NeRF experiments.
 - [ ] Release training, inference, and evaluation scripts.
 - [ ] Publish pretrained checkpoints and their configurations.
-- [ ] Add reproduction commands, dependency versions, seeds, and expected results.
-- [ ] Add the project license and third-party acknowledgments.
-- [ ] Add the arXiv link after the paper is announced.
 
 ## Citation
 
